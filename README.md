@@ -87,6 +87,6 @@ This project is licensed under the [MIT License].
 
 ## Contact
 
-For any inquiries or support, feel free to reach out to me at jonathanodoh3140@gmail.com.
+For any inquiries or support, feel free to reach out to me at g4urav009@gmail.com.
 
 ---
